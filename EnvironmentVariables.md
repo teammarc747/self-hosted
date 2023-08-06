@@ -35,6 +35,8 @@ If not set, system will access above `DOMAIN` with `http` protocol. with this, y
 
 #### `LICENSE_KEY`
 This is a unique key assigned to you by DronaHQ. you can get by logging in to [Self-Hosted Portal](https://studio.dronahq.com/selfhosted/login).
+# License key granted to you by DronaHQ
+LICENSE_KEY= 945A0E70-3465-11EE-B65F-0E71B101E9A3
 
 #### `DHQ_SELF_HOSTED_LICENSE_URL` (optional)
 
